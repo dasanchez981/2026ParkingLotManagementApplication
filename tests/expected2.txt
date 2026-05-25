@@ -1,1 +1,22 @@
-Number of lines: 5
+oversized vehicle with license plate 1001 is parking in spot 1.
+oversized vehicle with license plate 1002 is parking in spot 2.
+No more oversized spots available for vehicle with id 1003.
+oversized vehicle with license plate 1001 is leaving spot 1.
+oversized vehicle with license plate 1004 is parking in spot 1.
+large vehicle with license plate 2001 is parking in spot 1.
+large vehicle with license plate 2002 is parking in spot 2.
+No more large spots available for vehicle with id 2003.
+small vehicle with license plate 3001 is parking in spot 1.
+small vehicle with license plate 3002 is parking in spot 2.
+No more small spots available for vehicle with id 3003.
+large vehicle with license plate 2002 is leaving spot 2.
+Status:
+Small spots:
+1 3001
+2 3002
+Large spots:
+1 2001
+2 Empty
+Oversized spots:
+1 1004
+2 1002

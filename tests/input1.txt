@@ -1,4 +1,15 @@
-this
-is
-a
-test
+2
+Enter Small 1111
+Enter Small 2222
+Enter Small 3333
+Enter Large 4444
+Enter Large 5555
+Enter Large 6666
+Enter Oversized 7777
+Enter Oversized 8888
+Enter Oversized 9999
+Status
+Leave Small 1111
+Enter Small 3333
+Status
+Exit

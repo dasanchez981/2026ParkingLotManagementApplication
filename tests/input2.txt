@@ -1,5 +1,15 @@
-this
-is
-a
-test
-again
+2
+Enter Oversized 1001
+Enter Oversized 1002
+Enter Oversized 1003
+Leave Oversized 1001
+Enter Oversized 1004
+Enter Large 2001
+Enter Large 2002
+Enter Large 2003
+Enter Small 3001
+Enter Small 3002
+Enter Small 3003
+Leave Large 2002
+Status
+Exit

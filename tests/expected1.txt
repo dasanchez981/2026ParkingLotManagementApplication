@@ -1,1 +1,31 @@
-Number of lines: 4
+small vehicle with license plate 1111 is parking in spot 1.
+small vehicle with license plate 2222 is parking in spot 2.
+No more small spots available for vehicle with id 3333.
+large vehicle with license plate 4444 is parking in spot 1.
+large vehicle with license plate 5555 is parking in spot 2.
+No more large spots available for vehicle with id 6666.
+oversized vehicle with license plate 7777 is parking in spot 1.
+oversized vehicle with license plate 8888 is parking in spot 2.
+No more oversized spots available for vehicle with id 9999.
+Status:
+Small spots:
+1 1111
+2 2222
+Large spots:
+1 4444
+2 5555
+Oversized spots:
+1 7777
+2 8888
+small vehicle with license plate 1111 is leaving spot 1.
+small vehicle with license plate 3333 is parking in spot 1.
+Status:
+Small spots:
+1 3333
+2 2222
+Large spots:
+1 4444
+2 5555
+Oversized spots:
+1 7777
+2 8888
