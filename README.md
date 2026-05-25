@@ -7,4 +7,4 @@ javac src/Parking.java
 java -cp src Parking tests/input1.txt > tests/actual1.txt
 
 # verify test case
-diff tests/actual1.txt tests/expected1.txt
+diff tests/expected1.txt tests/actual1.txt
